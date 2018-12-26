@@ -1,0 +1,11 @@
+# Ignore folder
+build/
+bin/
+debug/
+
+# Ignore files
+*.sdf
+*.txt
+
+# except folder
+!data/text/
